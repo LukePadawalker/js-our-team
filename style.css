@@ -1,0 +1,13 @@
+.paragraph{
+    width: 33%;
+
+}
+
+.card-container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.card{
+    width: calc((100% / 3) - 3rem);
+}
