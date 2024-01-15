@@ -26,14 +26,14 @@ Barbara Ramos |	Graphic Designer     |	barbara-ramos-graphic-designer.jpg
 
 
 // array
-const team = {
-    [Name: 'Wayne Barnett', role: 'Founder & CEO', img: 'wayne-barnett-founder-ceo.jpg']
-    [Name: 'Angela Caroll', role: 'Chief Editor', img: 'angela-caroll-chief-editor.jpg']
-    [Name: 'Walter Gordon', role: 'Office Manager', img: 'walter-gordon-office-manager.jpg']
-    [Name: 'Angela Lopez', role: 'Social Media Manager', img: 'angela-lopez-social-media-manager.jpg']
-    [Name: 'Scott Estrada', role: 'Developer', img: 'scott-estrada-developer.jpg']
-    [Name: 'Barbara Ramos', role: 'Graphic Designer', img: 'barbara-ramos-graphic-designer.jpg']
-}
+const teamarray = [
+    {Name: 'Wayne Barnett', role: 'Founder & CEO', img: 'wayne-barnett-founder-ceo.jpg'},
+    {Name: 'Angela Caroll', role: 'Chief Editor', img: 'angela-caroll-chief-editor.jpg'},
+    {Name: 'Walter Gordon', role: 'Office Manager', img: 'walter-gordon-office-manager.jpg'},
+    {Name: 'Angela Lopez', role: 'Social Media Manager', img: 'angela-lopez-social-media-manager.jpg'},
+    {Name: 'Scott Estrada', role: 'Developer', img: 'scott-estrada-developer.jpg'},
+    {Name: 'Barbara Ramos', role: 'Graphic Designer', img: 'barbara-ramos-graphic-designer.jpg'}
+];
 
 
 
